@@ -1,2 +1,2 @@
 lol
-lol-conflict-new_branch
+lol-conflict-n_b
