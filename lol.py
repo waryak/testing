@@ -1,2 +1,3 @@
-lol-lol
-lol-lol-conflict-new_branch
+wow-lol-lol
+wow-lol-lol-conflict-new_branch
+wow-control
