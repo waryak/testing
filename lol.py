@@ -1,4 +1,1 @@
-MY CHANGES FROM NEW_BRANCH
-wow-lol-lol
-wow-lol-lol-conflict-new_branch
-wow-control
+starting from a new sheet often turns to starting with a new shit 
